@@ -1,0 +1,17 @@
+{
+  "name": "@davidlrnt/stock-prices",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@davidlrnt",
+  "preferGlobal": true,
+  "license": "ISC",
+  "bin": {
+    "stockprice": "index.js"
+  },
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
